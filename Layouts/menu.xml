@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:title="Add Exercise"
+     android:id="@+id/show_exercise_item"></item>
+ <item android:title="Set Date"
+        android:id="@+id/set_date_item"></item>
+ <item android:title="Save"
+        android:id="@+id/save_data"></item>
+</menu>
